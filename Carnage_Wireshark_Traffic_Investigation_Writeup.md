@@ -10,7 +10,7 @@ Eric Fischer from the Purchasing Department at Bartell Ltd received an email fro
 
 **Task:** Investigate the packet capture and uncover the malicious activities.
 
-> ⚠️ **Note:** No direct interaction is required with any domains or IP addresses in this challenge.
+ **Note:** No direct interaction is required with any domains or IP addresses in this challenge.
 
 ---
 
