@@ -1,7 +1,5 @@
 # SeeTwo
 
-# SeeTwo
-
 ### Network Forensics & Reverse Engineering of a Python-Based C2 Client
 
 ## Scenario
